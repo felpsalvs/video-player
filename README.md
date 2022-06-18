@@ -1,4 +1,4 @@
-# video-player
+# Video Player
 
 
 
@@ -7,9 +7,9 @@ https://user-images.githubusercontent.com/78622458/174454587-46362da9-e2b8-4340-
 
 
 ### 🔖 Sobre
-Entre no link e observe os dados de uma api no Console: https://felpsalvs.github.io/truques-do-console/
+Essa aplicação teve todo layout do player criado no CSS, e o JS deu vida a todas funções que faz um player de vídeo funcionar. Veja: https://felpsalvs.github.io/truques-do-console/
 
-9/30
+11/30
 
 https://JavaScript30.com
 
