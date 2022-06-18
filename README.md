@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/78622458/174454587-46362da9-e2b8-4340-
 
 
 ### 🔖 Sobre
-Essa aplicação teve todo layout do player criado no CSS, e o JS deu vida a todas funções que faz um player de vídeo funcionar. Veja:https://video-player-felpsalvs.vercel.app/
+Essa aplicação teve todo layout do player criado no CSS, e o JS deu vida a todas funções que faz um player de vídeo funcionar. Veja: https://video-player-felpsalvs.vercel.app/
 
 11/30
 
